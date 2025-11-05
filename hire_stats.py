@@ -13,6 +13,7 @@ flag_longitude = {
     ':flag-es:': 2.00,
     ':fr:': 2.35,
     ':de:': 10.45,
+    ':flag-se:': 18.4,
     ':flag-au:': 106.35,
 }
 
