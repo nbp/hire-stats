@@ -10,7 +10,7 @@ miss-placed conclusions.
 This program relies on a file named `hire_log.txt` placed in this repository,
 and which should not be published.
 
-This file should be layout as follows: (fictious data)
+This file should be layout as follows: (fictitious data)
 
 ```
 2025-12-20: :fr: :fr: :us: :flag-ca: :de: :flag-au: :flag-es:
