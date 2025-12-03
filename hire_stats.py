@@ -108,7 +108,7 @@ def display_stats(file_path):
     display_flags_by_longitude("New Mozillian Flag Stats (YTD)", ytd_percentages)
     display_flags_by_longitude("New Mozillian Flag Stats (over the past year)", year_percentages)
     # display_flags_by_longitude("New Mozillian Flag Stats since data collection started", all_percentages)
-    display_flags_by_longitude("New Mozillian Flag Stats (YoY constrast)", yoy_contrast)
+    display_flags_by_longitude("New Mozillian Flag Stats (YoY contrast)", yoy_contrast)
 
 def main():
     parser = argparse.ArgumentParser(description="Process a file path argument.")
