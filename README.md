@@ -55,7 +55,7 @@ number of flags in this period.
 
 ### New Flag Stats (YoY contrast)
 
-Considering the past 12 months (`new`) period and the past 12 months preiod before that (`old`), we count the number of flags in each period and compute the contrast.
+Considering the past 12 months (`new`) period and the past 12 months period before that (`old`), we count the number of flags in each period and compute the contrast.
 
 The contrast is expressed as `(new - old) / (new + old)`.
 
